@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @QuickSmasher
+- 👀 I’m interested in HTML
+- 🌱 I’m currently learning HTML
+- 💞️ I’m looking to collaborate on MCJavaLink
+- 📫 How to reach me IDK
